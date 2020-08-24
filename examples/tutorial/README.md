@@ -1,3 +1,7 @@
+# my change
+- my run `yarn eject`, then back webpack.
+- in `package.json`, add`homepage`
+
 # React-admin tutorial
 
 This is the application built while following the [tutorial](https://marmelab.com/react-admin/Tutorial.html).
@@ -11,3 +15,4 @@ make install
 
 make run-tutorial
 ```
+
